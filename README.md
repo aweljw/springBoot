@@ -11,6 +11,6 @@
 >	
 >	   **`※ 적용될 소스에 @RefreshScope 어노테이션 필수`**
 >
->## snsOauthLoing : sns open authentication
+>## snsOauthLogin : sns open authentication
 >	- facebook
 >	- twitter
