@@ -14,3 +14,7 @@
 >## snsOauthLogin : sns open authentication
 >	- facebook
 >	- twitter
+
+>## spring embedded db H2 (memory, file)
+>	- springJpaMemory : Store data in memory
+>	- springJpaFile   : Save data as file
