@@ -18,3 +18,6 @@
 >## spring embedded db H2 (memory, file)
 >	- springJpaMemory : Store data in memory
 >	- springJpaFile   : Save data as file
+>	
+>## springExceptionHandler
+>* @ExceptionHandler를 사용하여 한곳에서 exception 관리
