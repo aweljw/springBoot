@@ -21,3 +21,6 @@
 >	
 >## springExceptionHandler
 >* @ExceptionHandler를 사용하여 한곳에서 exception 관리
+>
+>## springRestTemplate
+>* REST API를 간단히, springRestTemplate 사용방법
